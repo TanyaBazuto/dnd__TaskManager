@@ -1,6 +1,6 @@
-# Домашнее задание к занятию "6. Работа с файлами, DnD" [![Build status](https://ci.appveyor.com/api/projects/status/07scxu25xthnm38t?svg=true)](https://ci.appveyor.com/project/TanyaBazuto/testing-validcard)
+# Домашнее задание к занятию "6. Работа с файлами, DnD" [![Build status](https://ci.appveyor.com/api/projects/status/ap0c0dab0dahwrio?svg=true)](https://ci.appveyor.com/project/TanyaBazuto/dnd-taskmanager)
 
-[GitHub Pages](https://tanyabazuto.github.io/testing__validCard/)
+[GitHub Pages](https://tanyabazuto.github.io/dnd__TaskManager/)
 
 Правила сдачи задания:
 
